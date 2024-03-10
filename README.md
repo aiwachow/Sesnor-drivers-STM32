@@ -5,4 +5,6 @@ All of them are written in the same scheme
 ``` c
 BMI088_INIT(BMI088_t *dev, I2C_HandleTypeDef *i2cHandle)
 ```
+Note* there is no function to rechange the data rate etc. 
 
+- Read measurments 
