@@ -1,7 +1,7 @@
 close all; 
 clearvars;
 
-filename = ['LoggedData.csv'];
+filename = ['LoggedData.csv']; % put yours raw mag data 
 M = readmatrix(filename);
 
 X_mag = M(:,1); 
