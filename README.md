@@ -14,4 +14,4 @@ BMI088_ReadAcc(BMI088_t *dev)
 
 ## Important comments on drivers 
 QMC - the measurement procedure includes hard and soft iron calibration. 
-I have added a basic matlab script in which to put the raw magnetometer data in csv format. 
+I have added a basic matlab script, where you can put the raw magnetometer data in csv format. 
